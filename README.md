@@ -1,4 +1,4 @@
-### Glup3
+# Glup3
 🚀 Software Developer 🚀
 
 Here are some ideas to get you started:
